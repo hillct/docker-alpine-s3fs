@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.3
 
 # the following ENV need to be present
 ENV IAM_ROLE=none
